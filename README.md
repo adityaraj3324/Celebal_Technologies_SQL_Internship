@@ -5,13 +5,13 @@ It demonstrates concepts in SQL queries, database management, and relational ope
 
 # Contents
 
-Assignment 1
+## Assignment 1
 
 SQL queries and exercises covering basic to intermediate database operations.
 
 Includes table creation, insertion, retrieval, and use of constraints.
 
-Assignment 2
+## Assignment 2
 
 Advanced SQL queries with focus on joins, subqueries, aggregate functions, and normalization concepts.
 
