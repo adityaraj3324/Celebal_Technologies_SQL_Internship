@@ -1,9 +1,9 @@
-Celebal Technologies SQL Internship
+# Celebal Technologies SQL Internship
 
 This repository contains assignments and practice tasks completed during my SQL Internship at Celebal Technologies.
 It demonstrates concepts in SQL queries, database management, and relational operations.
 
-Contents
+# Contents
 
 Assignment 1
 
@@ -17,7 +17,7 @@ Advanced SQL queries with focus on joins, subqueries, aggregate functions, and n
 
 Includes practical problem statements and solutions.
 
-Learning Outcomes
+# Learning Outcomes
 
 Strengthened understanding of SQL syntax and operations.
 
